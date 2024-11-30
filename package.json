@@ -1,6 +1,6 @@
 {
   "name": "react-context-wormhole",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sharing context between two different React roots",
   "main": "dist/index.js",
   "module": "dist/index.mjs",

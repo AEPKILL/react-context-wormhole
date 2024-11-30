@@ -20,4 +20,4 @@ Please refer to the examples in the `example` folder for specific usage.
 
 ## License
 
-MIT @ AEPKILL
+MIT © [AEPKILL](mailto:a@aepkill.com)
